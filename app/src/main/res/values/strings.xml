@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Headlines</string>
+    <string name="refresh">Refresh</string>
+    <string name="read_full_article">Read Full Article</string>
+    <string name="error_loading_news">Error loading news</string>
+    <string name="select_country">Select Country</string>
+</resources>
